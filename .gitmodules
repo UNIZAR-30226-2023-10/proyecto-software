@@ -1,0 +1,9 @@
+[submodule "CatanWeb"]
+	path = CatanWeb
+	url = git@github.com:UNIZAR-30226-2023-10/CatanWeb.git
+[submodule "CatanBackend"]
+	path = CatanBackend
+	url = git@github.com:UNIZAR-30226-2023-10/CatanBackend.git
+[submodule "CatanAndroid"]
+	path = CatanAndroid
+	url = git@github.com:UNIZAR-30226-2023-10/CatanAndroid.git
